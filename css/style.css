@@ -1,0 +1,8 @@
+.projects__card{
+    width: 350px;
+    height: 400px;
+    background-color: bisque;
+}
+.projects__card-img{
+    width: 350px;
+}

@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "pug": "^3.0.2",
+    "sass": "^1.32.12"
+  },
+  "name": "proect2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "scripts": {
+    "start": "parcel ./src/pug/*.pug",
+    "build": "parcel ./src/pug/*.pug --public-url ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
